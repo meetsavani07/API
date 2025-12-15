@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Sweet Potato Rounds",
+    "image": "https://www.marpewellness.com/wp-content/uploads/2014/07/Roasted-Sweet-Potato-Rounds.jpg",
+    "description": "Roasted sweet potato rounds with avocado and pomegranate",
+    "prepTime": "15 mins",
+    "cookTime": "25 mins",
+    "servings": 6,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 large sweet potatoes, sliced into rounds",
+      "2 tbsp olive oil",
+      "1 tsp smoked paprika",
+      "1 avocado, mashed",
+      "1 tbsp lime juice",
+      "1/4 cup pomegranate seeds",
+      "2 tbsp pumpkin seeds",
+      "Fresh cilantro for garnish",
+      "Sea salt and pepper",
+      "Tahini for drizzling"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C)",
+      "Slice sweet potatoes into 1/2 inch rounds",
+      "Toss with olive oil and smoked paprika",
+      "Roast 20-25 minutes until tender",
+      "Mash avocado with lime juice and salt",
+      "Top each sweet potato round with avocado",
+      "Sprinkle with pomegranate seeds",
+      "Add pumpkin seeds for crunch",
+      "Garnish with fresh cilantro",
+      "Drizzle with tahini before serving"
+    ],
+    "category": "Appetizers",
+    "calories": 145
+  },
+  {
+    "name": "Cucumber Cups",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Refreshing cucumber cups filled with herbed quinoa",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "servings": 8,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 large cucumbers",
+      "1 cup cooked quinoa, cooled",
+      "1/4 cup fresh herbs (mint, parsley, dill)",
+      "2 tbsp lemon juice",
+      "1 tbsp olive oil",
+      "1/4 cup cherry tomatoes, diced",
+      "2 tbsp pine nuts, toasted",
+      "Salt and pepper to taste",
+      "Microgreens for garnish",
+      "Lemon zest for finishing"
+    ],
+    "instructions": [
+      "Cut cucumbers into 2-inch thick rounds",
+      "Scoop out centers to create cups",
+      "Mix cooked quinoa with herbs and lemon juice",
+      "Add olive oil and diced tomatoes",
+      "Season with salt and pepper",
+      "Fill cucumber cups with quinoa mixture",
+      "Top with toasted pine nuts",
+      "Garnish with microgreens",
+      "Add lemon zest before serving",
+      "Chill until ready to serve"
+    ],
+    "category": "Appetizers",
+    "calories": 85
+  },
+  {
+    "name": "Beet Hummus",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Vibrant pink hummus made with roasted beets",
+    "prepTime": "15 mins",
+    "cookTime": "45 mins",
+    "servings": 6,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 medium beets, roasted",
+      "1 can chickpeas, drained",
+      "2 tbsp tahini",
+      "2 tbsp lemon juice",
+      "2 cloves garlic",
+      "2 tbsp olive oil",
+      "1/2 tsp cumin",
+      "Salt to taste",
+      "Goat cheese crumbles (vegan)",
+      "Vegetables for dipping"
+    ],
+    "instructions": [
+      "Wrap beets in foil and roast 45 minutes",
+      "Let cool, then peel and chop",
+      "Blend roasted beets with chickpeas",
+      "Add tahini, lemon juice, and garlic",
+      "Blend until smooth, adding water as needed",
+      "Season with cumin and salt",
+      "Transfer to serving bowl",
+      "Drizzle with olive oil",
+      "Top with vegan goat cheese crumbles",
+      "Serve with fresh vegetables"
+    ],
+    "category": "Appetizers",
+    "calories": 165
+  },
+  {
+    "name": "Polenta Bites",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Crispy polenta rounds topped with mushrooms",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 8,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 cup polenta",
+      "4 cups vegetable broth",
+      "2 tbsp nutritional yeast",
+      "2 cups mushrooms, sautéed",
+      "2 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "1 tbsp fresh thyme",
+      "1 tbsp balsamic vinegar",
+      "Salt and pepper to taste",
+      "Fresh herbs for garnish"
+    ],
+    "instructions": [
+      "Cook polenta in vegetable broth until thick",
+      "Stir in nutritional yeast",
+      "Pour into pan and let cool until firm",
+      "Cut into rounds and brush with olive oil",
+      "Pan-fry until golden and crispy",
+      "Sauté mushrooms with garlic and thyme",
+      "Add balsamic vinegar to mushrooms",
+      "Top polenta rounds with mushroom mixture",
+      "Season with salt and pepper",
+      "Garnish with fresh herbs"
+    ],
+    "category": "Appetizers",
+    "calories": 125
+  }
+]
